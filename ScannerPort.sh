@@ -2,7 +2,7 @@
 
 ###########################################################################
 
-    #Chame o Script com o bash e nome do script
+    #Na primeira execução chame o Script como bash e nome do script
     #Ex.: bash ScannerPort.sh
 
     #pode ser colocado parametros também como: 
